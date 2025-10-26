@@ -5,6 +5,14 @@ This project uses a pre-trained **Machine Learning model** serialized using `pic
 
 ---
 
+## 🌐 App Preview
+
+![Diabetes Prediction App Preview](preview.png)
+
+*(The interface allows users to input health data and get real-time diabetes predictions.)*
+
+---
+
 ## 🚀 Features
 
 - Interactive web interface using **Streamlit**
